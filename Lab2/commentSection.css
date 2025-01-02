@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.comment-section {
+    width: 70%;
+    margin: 0 auto;
+    padding: 80px;
+}
+
+.comment {
+    border: 1px solid black;
+    padding: 30px;
+    margin: 30px 0;
+    background-color: #f9f9f9;
+}
+
+.comment-form {
+    border: 1px solid black;
+    padding: 30px;
+    background-color: #f9f9f9;
+}
